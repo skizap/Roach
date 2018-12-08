@@ -1,0 +1,25 @@
+Custom Env Functions Added to ROACH
+ban bypass
+vehbypass
+getrawmetatable
+isreadonly
+setreadonly
+toclipboard
+loadfile
+autoexec
+RoachHttp (BETA) [Example: RoachHttp("URL") ]
+mouse1press
+mouse1release
+mouse2press
+mouse2release
+loadstring
+stealthlua Example stealthlua("print('BYPASSED LUA BY ANTI EXPLOIT')")
+
+Coming soon:
+SaveInstance
+WriteFile
+Readfile
+BitLibs
+HookLibs
+Getobj
+And other secret stuff 

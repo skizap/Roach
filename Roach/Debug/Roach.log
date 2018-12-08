@@ -1,0 +1,8 @@
+﻿  Roach.cpp
+c:\users\nividia\source\repos\roach\roach\roach.cpp(60): error C2065: 'm_L': undeclared identifier
+c:\users\nividia\source\repos\roach\roach\roach.cpp(60): error C3861: 'luaL_loadstring': identifier not found
+c:\users\nividia\source\repos\roach\roach\roach.cpp(61): error C2065: 'm_L': undeclared identifier
+c:\users\nividia\source\repos\roach\roach\roach.cpp(61): error C3861: 'lua_tostring': identifier not found
+c:\users\nividia\source\repos\roach\roach\roach.cpp(63): error C2065: 'm_L': undeclared identifier
+c:\users\nividia\source\repos\roach\roach\roach.cpp(63): error C3861: 'lua_pcall': identifier not found
+c:\users\nividia\source\repos\roach\roach\roach.cpp(72): warning C4326: return type of 'main' should be 'int' instead of 'void'
